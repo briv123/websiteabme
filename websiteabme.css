@@ -1,0 +1,87 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+.active {
+    background-color: #4CAF50;
+}
+
+li {
+    border-right: 1px solid #bbb;
+}
+
+li:last-child {
+    border-right: none;
+}
+
+
+
+#bookheading{
+    border: solid 3px cyan;
+    background:linear-gradient(to bottom right, rgb(41, 14, 51) 0%, #be72d1 100%);
+    margin: 8px;
+    text-align: center;
+    width: 100%;
+}
+
+#melk
+{
+    width: 323px;
+    height: 499px;
+}
+
+#uni
+{
+    width: 323px;
+    height: 499px;
+}
+
+#option
+{
+    width: 323px;
+    height: 499px;
+}
+
+#use
+{
+    width: 323px;
+    height: 499px;
+}
+
+#lamb
+{
+    width: 323px;
+    height: 499px;
+}
+
+#lemon
+{
+    width: 323px;
+    height: 499px;
+}
+
+#fi
+{
+    width: 323px;
+    height: 499px;
+}
